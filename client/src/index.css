@@ -11,6 +11,13 @@ h6 {
   font-family: 'Rubik Mono One', sans-serif;
 }
 
+.card-columns {
+  width: 45%;
+  display: flexbox;
+  flex-direction: column;
+}
+
+
 .small {
   font-weight: 300;
   font-style: italic;
